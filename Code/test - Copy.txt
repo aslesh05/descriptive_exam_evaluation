@@ -1,0 +1,27 @@
+What is the Meaning of Artifical Intelligence?
+
+Artificial intelligence is the means  intelligence processes by machines, especially computer systems. 
+Specific applications of AI include NLP, speech recognition and machine vision.
+
+
+What is the Meaning of machine Learning?
+
+What is machine learning? Machine learning is a subfield of artificial intelligence, without human it will solve problems.
+
+
+Why is it called deep learning?
+
+Deep Learning gets its name from the fact that it will test the images as well videos, it just changes the weights using an optimization function. 
+A Layer is a row of so-called "Neurons" in the middle.
+
+What is the difference between learning and deep learning?
+
+Machine learning and deep learning are both types of AI. In short, machine learning is AI that can automatically adapt with minimal human interference. 
+Deep learning is a subset of machine learning that uses artificial neural networks to mimic the learning process of the human brain.
+
+
+
+
+
+
+
